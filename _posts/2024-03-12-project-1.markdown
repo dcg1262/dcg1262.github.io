@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-03-12
+img: seatgeek.png
+alt: SeatGeek Ticket Tracker screenshot
+project-date: March 2024
+client: Personal Project
+category: Data Analysis
+description: A Python-based tool that scrapes SeatGeek listings to identify underpriced Dallas Cowboys tickets for potential resale profit. It uses BeautifulSoup and Pandas to process event and pricing data, and Matplotlib for visualizing price trends. Designed to help automate resale scouting through data-driven analysis.
+---
