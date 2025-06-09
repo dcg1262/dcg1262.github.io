@@ -4,7 +4,7 @@ email: dcg1262@outlook.com
 url: https://calebgomez.github.io
 description: "Caleb Gomez’s personal resume and portfolio site — highlighting technical skills, impactful projects, and a passion for building purposeful tech."
 keywords: "Caleb Gomez, software engineer, web developer, data science, full-stack developer, campus missionary, Squarespace, HTML, CSS, JavaScript, GitHub Pages"
-skills: "Web Developer - Data Analyst - Full-Stack Engineer"
+skills: "Software Engineer - Data Analyst - Full-Stack Engineer"
 meta_author: Gomez Caleb
 
 # Google webmaster tools
@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 7a5a2a #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  secondary: 2a4a7a #2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
