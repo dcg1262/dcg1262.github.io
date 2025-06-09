@@ -1,5 +1,5 @@
 # Site settings
-title: Freelancer
+title: Caleb Gomez
 email: dcg1262@outlook.com
 url: https://calebgomez.github.io
 description: "Caleb Gomez’s personal resume and portfolio site — highlighting technical skills, impactful projects, and a passion for building purposeful tech."
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: David Caleb Gomez
   location: Location
-  social: Around the Web
+  social: Social Media
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -50,7 +50,7 @@ address:
   - line: Benbrook, TX 76126
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: "Site theme originally based on Freelancer by Start Bootstrap (MIT licensed): https://startbootstrap.com/theme/freelancer"
 
 # Build settings
 markdown: kramdown
