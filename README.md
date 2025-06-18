@@ -1,32 +1,25 @@
-Freelancer Jekyll theme  
-=========================
+# Caleb Gomez - Resume Website
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+This is my personal resume website, built to showcase my professional experience, technical projects, and portfolio. The site is fully responsive, built with Jekyll and Bootstrap, and deployed for free using GitHub Pages.
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+## 🌐 Live Site
 
----
-```
+[https://dcg1262.github.io] (https://dcg1262.github.io)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## 📄 Features
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+- Fully responsive personal website
+- Custom Jekyll theme based on Start Bootstrap Freelancer
+- Clean design with customized color palette
+- Project portfolio with modals and image previews
+- Resume PDF download link
+- GitHub Pages deployment
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+## 🛠️ Built With
+
+- HTML5 / CSS3
+- Jekyll (Static Site Generator)
+- Bootstrap
+- Font Awesome
+- Liquid Templating
+- Git & GitHub Pages
