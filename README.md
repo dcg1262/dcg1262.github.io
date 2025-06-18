@@ -4,7 +4,7 @@ This is my personal resume website, built to showcase my professional experience
 
 ## 🌐 Live Site
 
-[https://dcg1262.github.io] (https://dcg1262.github.io)
+https://dcg1262.github.io
 
 ## 📄 Features
 
