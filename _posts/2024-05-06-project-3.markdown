@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2024-05-06
+img: breathe_easy.png
+alt: SimVent
+project-date: May 2024
+client: UTA SMART Hospital
+category: Software Engineering
+description: Developed a ventilator simulation platform for medical training using Java. Led UI design and implementation with Java Swing, enabling real-time parameter control and data visualization. Collaborated on backend modules to simulate ventilator modes, airflow regulation, and patient response algorithms.
+---
